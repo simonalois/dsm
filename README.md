@@ -1,7 +1,8 @@
 # supplemental material to the manuscript:
 ## A framework for predictive mapping of forest soil properties in mountain areas
 <br>
-Authors: Alois Simon<sup>1,2,*</sup>, Clemens Geitner<sup>3</sup>, Klaus Katzensteiner<sup>1</sup>
+authors:    
+Alois Simon<sup>1,2,*</sup>, Clemens Geitner<sup>3</sup>, Klaus Katzensteiner<sup>1</sup>
 
 1 Institute of Forest Ecology, Department of Forest and Soil Sciences, University of Natural Resources and Life Sciences Vienna, Vienna, Austria  
 2 Department of Forest Planning, Forest Administration Tyrol, Office of the Tyrolean government, Innsbruck, Austria   
