@@ -1,6 +1,6 @@
-#supplemental material to the manuscript:\
+# supplemental material to the manuscript:
 <br>
-##A framework for predictive mapping of forest soil properties in mountain areas
+## A framework for predictive mapping of forest soil properties in mountain areas
 <br>
 Authors: Alois Simon<sup>1,2,*</sup>, Clemens Geitner<sup>3</sup>, Klaus Katzensteiner<sup>1</sup>
 
