@@ -19,3 +19,6 @@ Highlights:
 - detailed geological substrate information as important predictor  
 - Generalized Additive Models competitive to Random Forests
 - integrating geographical coordinates accounts for spatial trends 
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/at/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/at/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/at/">Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 3.0 Österreich Lizenz</a>.
