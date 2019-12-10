@@ -13,7 +13,7 @@ email: simonalois@web.de
 postal address: Bürgerstraße 36, 6020 Innsbruck, Austria 
 
 Keywords:  
-Mountain forest soils; digital soil mapping; geological substrate information; plant available water storage capacity; Alpine Environment
+Mountain forest soils; digital soil mapping; geological substrate information; plant available water storage capacity; Alpine environment
 
 Highlights: 
 - concept for predicting spatially continuous forest soil properties
