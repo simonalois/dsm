@@ -36,11 +36,11 @@ cl <- makeCluster(4)
 registerDoParallel(cl)
 
 mod.nfk_sqrt.rf <- train(data_proxy[,predictors], data_proxy$nfk_sqrt, method="rf", metric="Rsquared", keep.forest=TRUE, 
-                         trControl=trainControl(method="cv"), importance=TRUE, verbose=TRUE)
+                         trControl=trainControl(method="oob"), importance=TRUE, verbose=TRUE)
 
 
 ffs_mod.nfk <-ffs(data_proxy[,predictors], data_proxy$nfk_sqrt, method="rf", metric="Rsquared",
-                  trControl=trainControl(method="cv"), importance=TRUE, tuneLength = 2, verbose = FALSE)
+                  trControl=trainControl(method="oob"), importance=TRUE, tuneLength = 2, verbose = FALSE)
 
 #backward variable selection with caret rfe
 control <- caret::rfeControl( functions =  rfFuncs, method = "cv", verbose=FALSE)
